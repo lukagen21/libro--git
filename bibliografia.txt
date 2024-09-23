@@ -1,1 +1,2 @@
-e- Chac, S. and Straub, B. Pro Git. Apress.\nLoeliger, J. and MCCullough, M. Version control with git. O´Reilly
+Chac, S. and Straub, B. Pro Git. Apress.
+Loeliger, J. and MCCullough, M. Version control with git. O´Reilly
